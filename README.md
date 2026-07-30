@@ -96,10 +96,5 @@ AI integration architecture
 
 I am interested in collaborating on AI product case studies, agentic workflows, developer tools, customer-experience automation, and open-source projects.
 
-LinkedIn: Add your LinkedIn profile URL
-
-Portfolio: Coming soon
-
-Location: Gurugram, India
 
 Building AI products that are useful, measurable, reliable, and grounded in real customer problems.
